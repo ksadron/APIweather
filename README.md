@@ -23,5 +23,6 @@ To jest prosta aplikacja pogodowa napisana w języku Kotlin na platformę Androi
 
 ## Zrzuty ekranu
 
-![Zrzut ekranu 1]([screenshots/zrzut1.png](https://github.com/ksadron/APIweather/assets/123036862/c380a99d-c2aa-452d-832d-e78f4a77125e))
-![Zrzut ekranu 2]([screenshots/zrzut2.png](https://github.com/ksadron/APIweather/assets/123036862/8d75c3cb-28fd-469e-9c1d-f4b7db429241))
+![Zrzut ekranu 2024-04-09 141852](https://github.com/ksadron/APIweather/assets/123036862/a666490e-42f6-40a0-882b-59a85592b861)
+![Zrzut ekranu 2024-04-09 141931](https://github.com/ksadron/APIweather/assets/123036862/7ee84814-0804-443c-ba34-f5c50faf44cc)
+
